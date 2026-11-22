@@ -1,0 +1,11 @@
+# Cloudflare Pages configuration for the MindLine React PWA.
+# Deploy with: npm run deploy  (from the project root)
+
+name = "mindline"
+pages_build_output_dir = "./client/dist"
+
+# Workers runtime compatibility date used by Pages Functions.
+compatibility_date = "2026-11-22"
+
+# No secrets are stored here. The app is offline-first and the API URL
+# (VITE_API_URL) is a build-time variable, not a runtime secret.

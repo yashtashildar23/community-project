@@ -9,10 +9,13 @@
     "dev:client": "npm --prefix client run dev",
     "start": "npm --prefix server run start",
     "build": "npm --prefix client run build",
+    "deploy": "npm run build && wrangler pages deploy",
+    "deploy:direct": "wrangler pages deploy",
     "install:all": "npm install && npm --prefix server install && npm --prefix client install",
     "seed": "npm --prefix server run seed"
   },
   "devDependencies": {
-    "concurrently": "^9.1.2"
+    "concurrently": "^9.1.2",
+    "wrangler": "^4.166.0"
   }
 }

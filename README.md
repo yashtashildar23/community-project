@@ -62,6 +62,20 @@ npm.cmd --prefix client run preview
 
 The service worker registers in production builds. Load the preview once, reload, then go offline — the app shell, assets, data, grounding tools, mood history, and bookmarks all remain available.
 
+## Deploy to Cloudflare Pages (Wrangler)
+
+`wrangler.toml` at the project root configures a Cloudflare Pages project named `mindline` with `client/dist` as the build output.
+
+```powershell
+npm install
+npx wrangler login
+npm.cmd run deploy          # builds, then deploys client/dist
+```
+
+Use `npm.cmd run deploy:direct` to redeploy an existing build without rebuilding.
+
+The Express API is not part of this Pages deployment. The client is fully functional without it because all helpline, article and screener data is bundled and all mood/bookmark data stays on the device. To expose the API publicly, deploy it separately (for example as a Cloudflare Worker or a Node host) and set `VITE_API_URL` before building.
+
 ## Safety note
 
 The self-assessments and articles are screening/education tools, not diagnoses. PHQ-9 item 9 endorsed at any frequency shows a support banner; "Nearly every day" shows the high-priority escalation with Tele MANAS 14416 and KIRAN 1800-599-0019.
