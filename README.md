@@ -66,6 +66,8 @@ The service worker registers in production builds. Load the preview once, reload
 
 `wrangler.toml` at the project root configures a Cloudflare Pages project named `mindline` with `client/dist` as the build output.
 
+The root `package.json` uses npm workspaces (`client`, `server`), so a single `npm ci` at the repository root installs **all** dependencies, including Vite. This is what Cloudflare Pages runs before `npm run build`.
+
 ```powershell
 npm install
 npx wrangler login
