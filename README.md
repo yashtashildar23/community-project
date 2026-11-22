@@ -68,6 +68,8 @@ The service worker registers in production builds. Load the preview once, reload
 
 The root `package.json` uses npm workspaces (`client`, `server`), so a single `npm ci` at the repository root installs **all** dependencies, including Vite. This is what Cloudflare Pages runs before `npm run build`.
 
+After Vite finishes, the build script mirrors `client/dist` to the root `dist/` directory. This means the deployment works whether your Cloudflare Pages output directory is set to `client/dist` (Wrangler config) or the default `dist` (Dashboard Git integration).
+
 ```powershell
 npm install
 npx wrangler login
