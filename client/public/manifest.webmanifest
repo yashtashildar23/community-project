@@ -1,0 +1,19 @@
+{
+  "name": "MindLine — Mental Health Support",
+  "short_name": "MindLine",
+  "description": "Offline-first crisis helplines, grounding tools, and self-care support. No account, no tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fbfa",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

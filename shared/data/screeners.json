@@ -1,0 +1,60 @@
+{
+  "options": [
+    { "value": 0, "label": "Not at all" },
+    { "value": 1, "label": "Several days" },
+    { "value": 2, "label": "More than half the days" },
+    { "value": 3, "label": "Nearly every day" }
+  ],
+  "instrumentNote": "Over the last 2 weeks, how often have you been bothered by any of the following problems?",
+  "screeners": [
+    {
+      "id": "phq9",
+      "name": "PHQ-9",
+      "fullName": "Patient Health Questionnaire-9",
+      "description": "A widely used 9-question tool that screens for symptoms of depression.",
+      "questions": [
+        "Little interest or pleasure in doing things",
+        "Feeling down, depressed, or hopeless",
+        "Trouble falling or staying asleep, or sleeping too much",
+        "Feeling tired or having little energy",
+        "Poor appetite or overeating",
+        "Feeling bad about yourself — or that you are a failure or have let yourself or your family down",
+        "Trouble concentrating on things, such as reading or watching television",
+        "Moving or speaking so slowly that other people could have noticed, or being so fidgety or restless that you have been moving around a lot more than usual",
+        "Thoughts that you would be better off dead, or of hurting yourself in some way"
+      ],
+      "riskQuestionIndex": 8,
+      "maxScore": 27,
+      "severity": [
+        { "min": 0, "max": 4, "label": "Minimal", "tone": "green", "message": "Your answers suggest minimal depression symptoms. Keep noticing how you feel and reach out if things change." },
+        { "min": 5, "max": 9, "label": "Mild", "tone": "yellow", "message": "Your answers suggest mild depression symptoms. Self-care and checking in with someone you trust may help." },
+        { "min": 10, "max": 14, "label": "Moderate", "tone": "orange", "message": "Your answers suggest moderate depression symptoms. Consider speaking with a healthcare or mental health professional." },
+        { "min": 15, "max": 19, "label": "Moderately Severe", "tone": "red", "message": "Your answers suggest moderately severe depression symptoms. We encourage you to connect with a professional soon." },
+        { "min": 20, "max": 27, "label": "Severe", "tone": "red", "message": "Your answers suggest severe depression symptoms. Please reach out to a mental health professional or a 24/7 helpline today." }
+      ]
+    },
+    {
+      "id": "gad7",
+      "name": "GAD-7",
+      "fullName": "Generalized Anxiety Disorder-7",
+      "description": "A 7-question tool that screens for symptoms of anxiety.",
+      "questions": [
+        "Feeling nervous, anxious, or on edge",
+        "Not being able to stop or control worrying",
+        "Worrying too much about different things",
+        "Trouble relaxing",
+        "Being so restless that it is hard to sit still",
+        "Becoming easily annoyed or irritable",
+        "Feeling afraid, as if something awful might happen"
+      ],
+      "riskQuestionIndex": null,
+      "maxScore": 21,
+      "severity": [
+        { "min": 0, "max": 4, "label": "Minimal", "tone": "green", "message": "Your answers suggest minimal anxiety symptoms. Keep up the habits that work for you." },
+        { "min": 5, "max": 9, "label": "Mild", "tone": "yellow", "message": "Your answers suggest mild anxiety symptoms. Grounding and breathing exercises may be helpful." },
+        { "min": 10, "max": 14, "label": "Moderate", "tone": "orange", "message": "Your answers suggest moderate anxiety symptoms. Consider speaking with a healthcare or mental health professional." },
+        { "min": 15, "max": 21, "label": "Severe", "tone": "red", "message": "Your answers suggest severe anxiety symptoms. Please reach out to a mental health professional or a 24/7 helpline today." }
+      ]
+    }
+  ]
+}

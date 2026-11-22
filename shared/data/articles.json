@@ -1,0 +1,177 @@
+[
+  {
+    "id": "panic-attack-first-aid",
+    "title": "Panic Attack First Aid",
+    "category": "Crisis Care",
+    "readTime": "4 min read",
+    "summary": "What to do in the first five minutes of a panic attack — and how to help someone else through one.",
+    "color": "bg-rose-100 text-rose-800",
+    "content": [
+      {
+        "heading": "First, name what is happening",
+        "text": "A panic attack is a surge of intense fear with physical symptoms — a racing heart, shortness of breath, trembling, sweating, or a sense of unreality. It feels dangerous, but it is not. Panic attacks peak within about 10 minutes and then begin to subside. Remind yourself: this is a panic attack, it will pass, and you are safe.",
+        "list": []
+      },
+      {
+        "heading": "Slow the breath, not the feeling",
+        "text": "Trying to force calm often makes panic stronger. Instead, gently lengthen the exhale. Breathe in for 4 counts and out for 6 counts, or use the box breathing exercise in the Toolkit. Let your shoulders drop as you breathe out.",
+        "list": ["Feet flat on the floor", "Unclench your jaw and fists", "Look around and name the room you are in"]
+      },
+      {
+        "heading": "Ground yourself in the present",
+        "text": "Use your senses to reconnect with the here and now. The 5-4-3-2-1 exercise in the Toolkit walks you through this: 5 things you can see, 4 you can feel, 3 you can hear, 2 you can smell, and 1 you can taste.",
+        "list": []
+      },
+      {
+        "heading": "If you are supporting someone",
+        "text": "Stay calm and speak slowly. Do not tell them to 'calm down' or minimize what they feel. Ask simple, answerable questions, offer water, and give them space if they want it. Ask directly and without hesitation if they are thinking about harming themselves — asking does not plant the idea. If there is immediate danger, call emergency services or a 24/7 crisis line.",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": "overcoming-burnout",
+    "title": "Overcoming Burnout, One Small Step at a Time",
+    "category": "Everyday Wellbeing",
+    "readTime": "5 min read",
+    "summary": "Burnout is not a personal failure. Learn the signs and a gentle, practical way back.",
+    "color": "bg-amber-100 text-amber-800",
+    "content": [
+      {
+        "heading": "What burnout actually is",
+        "text": "Burnout is a state of physical, emotional, and mental exhaustion caused by prolonged stress — especially when demands consistently exceed your capacity. It is recognized by the World Health Organization as an occupational phenomenon, not a medical condition. It can affect anyone, including students and caregivers.",
+        "list": []
+      },
+      {
+        "heading": "Common signs to notice",
+        "text": "Burnout rarely arrives all at once. It builds. Notice changes in your energy, your sleep, your patience, and your sense of purpose.",
+        "list": ["Feeling drained before the day even starts", "Cynicism or distance from work, study, or people you care about", "Reduced performance and difficulty concentrating", "Headaches, stomach upset, or changes in appetite or sleep"]
+      },
+      {
+        "heading": "Recovery starts with boundaries, not willpower",
+        "text": "Rest alone is not enough if the pattern that caused the exhaustion continues. Pick one small, specific boundary to try this week: a real break at lunch, no messages after a set hour, or one evening that is fully yours. Protect it the way you would protect an important appointment.",
+        "list": []
+      },
+      {
+        "heading": "When to reach out",
+        "text": "If exhaustion is paired with persistent low mood, hopelessness, or thoughts of self-harm, talk to a professional or contact a helpline. You do not have to wait until things are severe to ask for support.",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": "supporting-a-friend",
+    "title": "Supporting a Friend in Crisis",
+    "category": "For Supporters",
+    "readTime": "6 min read",
+    "summary": "What to say, what to avoid, and how to help someone who is struggling without burning yourself out.",
+    "color": "bg-sky-100 text-sky-800",
+    "content": [
+      {
+        "heading": "Start with presence, not advice",
+        "text": "The most helpful first response is often simple: 'I'm here, I'm listening, and I'm not going anywhere.' You do not need the right words. You need to be reliably, calmly there. Let silence exist — it often gives the other person room to find their own words.",
+        "list": []
+      },
+      {
+        "heading": "Ask directly about safety",
+        "text": "If you are worried someone might harm themselves, ask plainly: 'Are you thinking about killing yourself?' Research consistently shows that asking directly does not increase suicidal thoughts. It can be the relief that opens the door to help. If they say yes, stay with them and contact a crisis line or emergency services.",
+        "list": []
+      },
+      {
+        "heading": "What to avoid",
+        "text": "Some well-meant responses can land badly. Try to steer clear of these, even when you are unsure what to say instead.",
+        "list": ["'Other people have it worse.'", "'You have so much to live for.'", "'Just think positive.'", "Promising to keep immediate danger a secret"]
+      },
+      {
+        "heading": "Help them take the next small step",
+        "text": "Offer concrete, low-effort help: sit with them while they call a helpline, help them book an appointment, or check in with a simple message tomorrow. Then keep the check-ins going. And look after yourself too — supporting someone in crisis is heavy work, and you deserve support of your own.",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": "sleep-hygiene",
+    "title": "Sleep Hygiene That Actually Helps",
+    "category": "Everyday Wellbeing",
+    "readTime": "4 min read",
+    "summary": "Small, evidence-based changes that can improve sleep without turning your bedtime into a strict rulebook.",
+    "color": "bg-indigo-100 text-indigo-800",
+    "content": [
+      {
+        "heading": "Keep a steady rhythm",
+        "text": "Your body thrives on routine. Try to wake up at roughly the same time every day, including weekends. Consistent light exposure in the morning helps reset your internal clock more than anything you can do at night.",
+        "list": []
+      },
+      {
+        "heading": "Create a wind-down runway",
+        "text": "In the 30–60 minutes before bed, lower the stimulation. Dim the lights, put down work, and do something quiet and repetitive. A warm shower, gentle stretching, or reading a physical book can all signal to your body that the day is ending.",
+        "list": ["Avoid caffeine after early afternoon", "Keep the bedroom cool, dark, and quiet", "Move screens out of the last 30 minutes if you can"]
+      },
+      {
+        "heading": "If you cannot sleep, do not fight it",
+        "text": "Lying awake and worrying about being awake makes sleep harder. If you have been awake for what feels like a long time, get up, do something calm in low light, and return to bed when you feel sleepy. This keeps your bed associated with sleep rather than frustration.",
+        "list": []
+      },
+      {
+        "heading": "When it is more than a rough patch",
+        "text": "Persistent sleep problems can be a sign of anxiety, depression, or another health issue. If poor sleep lasts for several weeks or is affecting your daily life, speak with a healthcare professional.",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": "understanding-anxiety",
+    "title": "Understanding Anxiety",
+    "category": "Know More",
+    "readTime": "5 min read",
+    "summary": "Anxiety is not weakness. Understand the alarm system in your body and how to work with it.",
+    "color": "bg-violet-100 text-violet-800",
+    "content": [
+      {
+        "heading": "Anxiety is a protective system",
+        "text": "Anxiety is your body's threat-detection system preparing you to act. It is useful in genuinely dangerous situations. The difficulty arises when the alarm becomes too sensitive and fires often, or when there is no clear danger to escape from.",
+        "list": []
+      },
+      {
+        "heading": "How it shows up",
+        "text": "Anxiety lives in the body as much as the mind. Recognizing the physical signs can help you interpret them accurately rather than fearing them.",
+        "list": ["Racing heart or tight chest", "Restlessness or a feeling of being on edge", "Trouble concentrating", "Stomach discomfort, sweating, or trembling"]
+      },
+      {
+        "heading": "Work with the feeling, not against it",
+        "text": "Trying to eliminate anxiety completely usually backfires. Instead, practise noticing it without judgment, slowing your breathing, and gently returning to what you were doing. Regular movement, consistent sleep, and connection with others all lower the baseline over time.",
+        "list": []
+      },
+      {
+        "heading": "Support is available",
+        "text": "When anxiety begins to interfere with work, relationships, or sleep, evidence-based therapies such as cognitive behavioural therapy (CBT) can help a great deal. A helpline or healthcare professional can point you toward options near you.",
+        "list": []
+      }
+    ]
+  },
+  {
+    "id": "grounding-techniques",
+    "title": "Five Grounding Techniques You Can Do Anywhere",
+    "category": "Self-Care Tools",
+    "readTime": "4 min read",
+    "summary": "Discreet, no-equipment ways to steady yourself when you feel overwhelmed or disconnected.",
+    "color": "bg-emerald-100 text-emerald-800",
+    "content": [
+      {
+        "heading": "Why grounding works",
+        "text": "When stress or panic pulls your attention into scary what-ifs, grounding brings it back to the present moment and to the world around you. It is a skill, not a talent — it gets easier with practice.",
+        "list": []
+      },
+      {
+        "heading": "Try these five",
+        "text": "You can do each of these silently and without anyone noticing.",
+        "list": ["Press your feet into the floor and notice the pressure", "Hold a cold glass of water and describe the temperature", "Name 5 things you can see in the room", "Count your exhales up to ten, then start again", "Describe out loud what you are doing, step by step"]
+      },
+      {
+        "heading": "Make it yours",
+        "text": "The best grounding technique is the one you will actually use. Experiment when you are calm so the technique feels familiar when you are distressed. The 5-4-3-2-1 exercise in the Toolkit is a structured version you can follow at any time.",
+        "list": []
+      }
+    ]
+  }
+]
